@@ -95,3 +95,10 @@ This dataset is shared for educational and research reference. No formal
 license is attached. The images show produce; no faces appear, although some
 images include contributors' hands. All EXIF metadata (including any location
 data) was removed and filenames were anonymized before upload.
+
+## Acknowledgments
+
+Thank you to the students of CS 5330 in Fall 2026, who photographed every image
+in this dataset together. Their work turned an in-class activity into a shared
+resource for the course. Contributors are not named individually because
+filenames were anonymized to protect student privacy.
