@@ -79,6 +79,16 @@ classifier from scratch. It is meant to be used with a pretrained model, either
 as an evaluation set for a model fine-tuned on a larger dataset or as a small
 fine-tuning set for transfer learning.
 
+## Notebooks
+
+Course notebooks that use this dataset are in [`notebooks/`](notebooks/). Each
+one runs in Google Colab and clones this repository itself, so no manual
+download is needed.
+
+| Notebook | Description | |
+|----------|-------------|---|
+| [Week 3 — Transfer Learning](notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) | Fine-tunes a pretrained ResNet18 on a public produce dataset, then tests it on this dataset to measure the domain-shift gap. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) |
+
 ## License and privacy
 
 This dataset is shared for educational and research reference. No formal
