@@ -88,6 +88,7 @@ download is needed.
 | Notebook | Description | |
 |----------|-------------|---|
 | [Week 3 — Transfer Learning](notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) | Fine-tunes a pretrained ResNet18 on a public produce dataset, then tests it on this dataset to measure the domain-shift gap. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) |
+| [Week 5 — Segment Anything](notebooks/CS5330_Week5_Segment_Anything.ipynb) | Runs SAM (click prompts) and SAM 3 (text prompts) on the apple and plum photos, then checks whether SAM 3 confuses plums and apples the way the Week 3 CNN did. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week5_Segment_Anything.ipynb) |
 
 ## License and privacy
 
