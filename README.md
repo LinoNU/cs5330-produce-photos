@@ -89,6 +89,7 @@ download is needed.
 |----------|-------------|---|
 | [Week 3 — Transfer Learning](notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) | Fine-tunes a pretrained ResNet18 on a public produce dataset, then tests it on this dataset to measure the domain-shift gap. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week3_Transfer_Learning_Activity.ipynb) |
 | [Week 5 — Segment Anything](notebooks/CS5330_Week5_Segment_Anything.ipynb) | Runs SAM (click prompts) and SAM 3 (text prompts) on the apple and plum photos, then checks whether SAM 3 confuses plums and apples the way the Week 3 CNN did. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week5_Segment_Anything.ipynb) |
+| [Week 6 — Can CLIP Read?](notebooks/CS5330_Week6_Can_CLIP_Read.ipynb) | Bonus activity: tests whether a handwritten sticky note ("banana") can fool CLIP's zero-shot classifier, using the photos in [`week6_clip/`](week6_clip/). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinoNU/cs5330-produce-photos/blob/main/notebooks/CS5330_Week6_Can_CLIP_Read.ipynb) |
 
 ## License and privacy
 
